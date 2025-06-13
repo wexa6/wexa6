@@ -6,14 +6,14 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
-  # Allows to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # needed to write the generated svg file to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -26,6 +26,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
           # The output file for the snake animation
+          # --- THIS IS THE MODIFIED PART ---
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
