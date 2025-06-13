@@ -39,9 +39,9 @@
     <img src="https://img.shields.io/badge/CyberDefenders-Profile-0059B3?style=for-the-badge&logoColor=white" alt="CyberDefenders Profile"/>
   </a>
   
-  <!-- Custom picoCTF Badge (No official badge available) -->
+  <!-- Compact picoCTF Badge -->
   <a href="https://play.picoctf.org/users/wexa" target="_blank">
-    <img src="https://img.shields.io/badge/picoCTF-Profile-d72a1f?style=flat" alt="picoCTF Profile"/>
+    <img src="https://img.shields.io/badge/picoCTF-Profile-d72a1f?style=flat-square&logoColor=white" alt="picoCTF Profile"/>
   </a>
 </p>
 
