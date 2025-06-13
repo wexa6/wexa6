@@ -31,7 +31,7 @@
 <h3 align="left">CTF & Security Platforms:</h3>
 <p align="left">
   <!-- Add your TryHackMe, HackTheBox, or other platform profiles! -->
-  <a href="https://tryhackme.com/p/wexa" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/wexa.svg" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/wexa" target="blank"><img align="center" src="https://www.bing.com/images/search?q=TryHackMe&id=EEFBFC4D5D682895FFAF114A6BDE6801A7DF1707&FORM=IACFIR" alt="TryHackMe"></a>
   <!-- You can generate a Hack The Box badge here: https://www.hackthebox.com/home/settings -->
 </p>
 
