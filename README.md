@@ -20,19 +20,18 @@
 - 🌱 I’m currently learning **advanced memory forensics and cloud security (AWS/Azure).**
 - 🤝 I’m looking to collaborate on **open-source threat detection tools (e.g., Sigma/YARA rules).**
 - 💬 Ask me about **SIEM, log analysis, incident response, or anything security-related.**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **I find parsing through gigabytes of logs surprisingly therapeutic.**
+- 📫 How to reach me: **[shehabhos6@gmail.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-profile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-profile]" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shehab-hosni-elsheikh-6b287224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-profile]" height="30" width="40" /></a>
   <a href="https://twitter.com/[your-twitter-handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your-twitter-handle]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">CTF & Security Platforms:</h3>
 <p align="left">
   <!-- Add your TryHackMe, HackTheBox, or other platform profiles! -->
-  <a href="https://tryhackme.com/p/[your-tryhackme-username]" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/[your-tryhackme-username].svg" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/wexa" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/wexa.svg" alt="TryHackMe"></a>
   <!-- You can generate a Hack The Box badge here: https://www.hackthebox.com/home/settings -->
 </p>
 
