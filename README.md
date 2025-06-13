@@ -25,14 +25,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shehab-hosni-elsheikh-6b287224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-profile]" height="30" width="40" /></a>
-  <a href="https://twitter.com/[your-twitter-handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your-twitter-handle]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">CTF & Security Platforms:</h3>
 <p align="left">
-  <!-- Add your TryHackMe, HackTheBox, or other platform profiles! -->
-  <a href="https://tryhackme.com/p/wexa" target="blank"><img align="center" src="https://www.bing.com/images/search?q=TryHackMe&id=EEFBFC4D5D682895FFAF114A6BDE6801A7DF1707&FORM=IACFIR" alt="TryHackMe"></a>
-  <!-- You can generate a Hack The Box badge here: https://www.hackthebox.com/home/settings -->
+  <!-- This is the corrected, more reliable TryHackMe badge. It's dynamic and shows your rank. -->
+  <a href="https://tryhackme.com/p/wexa" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://tryhackme.com/api/user/rank/[your-tryhackme-username]&query=userRank&label=TryHackMe&color=red&logo=tryhackme" alt="TryHackMe Profile"/>
+  </a>
+  <a href="https://cyberdefenders.org/p/wexa" target="_blank">
+    <img src="https://img.shields.io/badge/CyberDefenders-Profile-0059B3?style=flat" alt="CyberDefenders Profile"/>
+  </a>
+   <a href="https://play.picoctf.org/users/wexa" target="_blank">
+    <img src="https://img.shields.io/badge/picoCTF-Profile-d72a1f?style=flat" alt="picoCTF Profile"/>
+  </a>
 </p>
 
 <h3 align="left">Languages, Tools, and Technologies:</h3>
