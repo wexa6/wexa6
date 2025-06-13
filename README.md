@@ -1,11 +1,4 @@
-<!-- 
-  Welcome to your new Blue Team-themed GitHub profile!
-  This version includes a hand-picked GIF to represent vigilance and analysis.
-  Remember to replace the placeholders with your info!
--->
-
 <div align="center">
-  <!-- This GIF represents vigilance and data analysis - perfect for a SOC/Blue Teamer -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJlejFsc2dsODA2NXg3YWZ3NG02YTdqbmpvaG5ibG56OHkyZTVwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -18,7 +11,6 @@
 
 - 🔭 I’m currently working on **automating threat intelligence feeds with Python.**
 - 🌱 I’m currently learning **advanced memory forensics and cloud security (AWS/Azure).**
-- 🤝 I’m looking to collaborate on **open-source threat detection tools (e.g., Sigma/YARA rules).**
 - 💬 Ask me about **SIEM, log analysis, incident response, or anything security-related.**
 - 📫 How to reach me: **[shehabhos6@gmail.com]**
 
