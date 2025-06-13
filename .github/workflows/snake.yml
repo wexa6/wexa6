@@ -1,0 +1,31 @@
+# GitHub Action for generating a contribution graph with a snake eating the contributions
+name: Generate Snake
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed to write the generated svg file to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          github_user_name: ${{ github.repository_owner }}
+
+          # The output file for the snake animation
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
