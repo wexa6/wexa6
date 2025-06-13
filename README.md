@@ -77,11 +77,11 @@
   Check out https://github.com/anuraghazra/github-readme-stats for all the options.
   Some nice themes: tokyonight, dracula, gruvbox, radical, merko, nightowl
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[your-github-username]" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wexa6&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wexa6" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=tokyonight" alt="[your-github-username]" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wexa6&show_icons=true&locale=en&theme=tokyonight" alt="wexa6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=tokyonight" alt="[your-github-username]" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wexa6&theme=tokyonight" alt="wexa6" /></p>
 
 <!-- 
   This snake animation is generated from your contribution graph.
