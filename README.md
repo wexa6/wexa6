@@ -12,8 +12,6 @@
 <h1 align="center">Hey there, I'm Shehab 🛡️</h1>
 <h3 align="center">A vigilant Cybersecurity Analyst specializing in threat detection and incident response.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=004488&style=flat" alt="[your-github-username]" /> </p>
-
 <p align="left">
   As a defender in the digital realm, I'm passionate about protecting systems and hunting for threats. My repository contains projects, scripts, and notes from my journey in cybersecurity.
 </p>
