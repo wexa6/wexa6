@@ -1,0 +1,28 @@
+# A fresh start for the snake animation workflow
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # --- THIS IS THE CHANGE ---
+          # We are hardcoding your username to be 100% sure.
+          github_user_name: wexa6
+
+          # We will output the file directly to the main directory first.
+          outputs: |
+            github-contribution-grid-snake.svg
