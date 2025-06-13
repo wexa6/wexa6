@@ -29,14 +29,18 @@
 
 <h3 align="left">CTF & Security Platforms:</h3>
 <p align="left">
-  <!-- This is the corrected, more reliable TryHackMe badge. It's dynamic and shows your rank. -->
+  <!-- Official TryHackMe Badge -->
   <a href="https://tryhackme.com/p/wexa" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://tryhackme.com/api/user/rank/[your-tryhackme-username]&query=userRank&label=TryHackMe&color=red&logo=tryhackme" alt="TryHackMe Profile"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
+
+  <!-- Custom CyberDefenders Badge -->
   <a href="https://cyberdefenders.org/p/wexa" target="_blank">
-    <img src="https://img.shields.io/badge/CyberDefenders-Profile-0059B3?style=flat" alt="CyberDefenders Profile"/>
+    <img src="https://img.shields.io/badge/CyberDefenders-Profile-0059B3?style=for-the-badge&logoColor=white" alt="CyberDefenders Profile"/>
   </a>
-   <a href="https://play.picoctf.org/users/wexa" target="_blank">
+  
+  <!-- Custom picoCTF Badge (No official badge available) -->
+  <a href="https://play.picoctf.org/users/wexa" target="_blank">
     <img src="https://img.shields.io/badge/picoCTF-Profile-d72a1f?style=flat" alt="picoCTF Profile"/>
   </a>
 </p>
