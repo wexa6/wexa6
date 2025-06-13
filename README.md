@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- This GIF represents vigilance and data analysis - perfect for a SOC/Blue Teamer -->
-  <img src="[https://media.giphy.com/media/L8K62iI8aU8Gb0UPpL/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJlejFsc2dsODA2NXg3YWZ3NG02YTdqbmpvaG5ibG56OHkyZTVwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJlejFsc2dsODA2NXg3YWZ3NG02YTdqbmpvaG5ibG56OHkyZTVwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">Hey there, I'm Shehab 🛡️</h1>
