@@ -87,6 +87,8 @@
   This snake animation is generated from your contribution graph.
   To set it up, follow the instructions at: https://github.com/Platane/snk
 -->
+<!-- start of snake animation -->
 <div align="center">
-  <img src="https://github.com/[your-github-username]/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  <img src="https/raw.githubusercontent.com/wexa6/wexa6/main/dist/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
+<!-- end of snake animation -->
